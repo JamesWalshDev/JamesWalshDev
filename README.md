@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm James 👋
 
-<!--
-**JamesWalshDev/JamesWalshDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a C# Developer passionate about building scalable, lightweight systems for games and applications.
 
-Here are some ideas to get you started:
+Currently focusing on:
+- 🎯 Unity and Godot tool development
+- 🚀 Attribute-driven service architecture (like **TraceInject**)
+- ⚡ Creating clean, efficient, engine-agnostic microtools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [**TraceInject**](https://github.com/JamesWalshDev/TraceInject) - Lightweight Attribute-Based Dependency Injection for Unity, Godot, and C#
+
+More projects coming soon!
+
+## 📫 How to reach me
+- GitHub Issues on my repos
+- (Optional: Add Discord, Twitter, Email if you ever want)
+
+---
+*"Build clean. Build light. Build strong."*
